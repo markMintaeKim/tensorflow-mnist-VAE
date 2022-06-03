@@ -1,5 +1,5 @@
 # Variational Auto-Encoder for MNIST
-An implementation of variational auto-encoder (VAE) for MNIST descripbed in the paper:  
+An implementation of variational auto-encoder (VAE) for MNIST described in the paper:  
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) by Kingma et al.
 
 ## Results
